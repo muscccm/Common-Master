@@ -1,7 +1,8 @@
 # Common Master - 常用语快速输入工具
 
 <p align="center">
-  <img src="assets/logo/.gitkeep" width="128" alt="Common Master Logo"/>
+<img width="306" height="267" alt="image" src="https://github.com/user-attachments/assets/12101ed3-51e0-451e-9be3-0ee035c6e2af" />
+
 </p>
 
 <p align="center">
@@ -37,6 +38,8 @@ Common Master 是一款 Windows 原生桌面工具，让你像手机输入法一
 - **不抢焦点输入**：窗口采用 `WS_EX_NOACTIVATE` 技术，像输入法候选框一样悬浮，不会抢走你正在编辑的窗口焦点
 - **Unicode 直接输入**：通过 `SendInput` 逐字符输入，不依赖剪贴板，不会覆盖你复制的内容
 - **光标位置弹出**：面板在鼠标光标附近弹出，伸手就能点到
+- 
+<img width="445" height="658" alt="image" src="https://github.com/user-attachments/assets/bee6877c-23d6-493d-a77d-7e76ed926f4f" />
 
 ### 🏷️ 标签分类管理
 
@@ -55,6 +58,7 @@ Common Master 是一款 Windows 原生桌面工具，让你像手机输入法一
 - **深色/浅色主题**：一键切换，护眼模式随时开
 - **三语支持**：中文、English、日本語，界面文本全部本地化
 - **主题同步**：主窗口和设置窗口主题实时同步
+<img width="466" height="713" alt="image" src="https://github.com/user-attachments/assets/b66ee07c-17aa-4642-9c5d-aa0919f486aa" />
 
 ### ☁️ 数据同步与备份
 
@@ -65,6 +69,7 @@ Common Master 是一款 Windows 原生桌面工具，让你像手机输入法一
 - **自动备份**：可配置备份间隔和最大备份数
 - **远程备份**：备份文件同步上传到 WebDAV
 - **状态栏实时显示**：最后备份时间、同步状态、失败信息一目了然
+<img width="394" height="383" alt="image" src="https://github.com/user-attachments/assets/8d0ac640-40cd-4cdd-b8a1-cd1b263991fe" />
 
 ### 🪟 窗口记忆
 
