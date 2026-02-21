@@ -144,27 +144,40 @@ Common Master 是一款 Windows 原生桌面工具，让你像手机输入法一
 
 ---
 
-## 技术架构
+## 💖 支持作者
 
-- **框架**：C# WPF (.NET 8)，MVVM 架构
-- **窗口技术**：`WS_EX_NOACTIVATE` + `WS_EX_TOOLWINDOW` + 低级鼠标钩子（`WH_MOUSE_LL`）
-- **文本输入**：`SendInput` + `KEYEVENTF_UNICODE`，逐字符输入，不依赖剪贴板
-- **数据存储**：JSON 文件，轻量无依赖
-- **同步**：WebDAV 协议，兼容各种网盘和 NAS
-- **安全**：WebDAV 密码使用 DPAPI 加密存储
+如果这个工具对您有帮助，欢迎支持作者继续开发更多实用工具！
 
----
+### 💳 打赏方式
 
-## 下载
+<div align="center">
 
-前往 [Releases](../../releases) 页面下载最新版本。
+#### 微信支付
+<img src="https://github.com/muscccm/Excel-Column-Extraction-Tool/blob/main/WC.png?raw=true" width="200" alt="微信支付二维码">
 
----
+#### 支付宝
+<img src="https://github.com/muscccm/Excel-Column-Extraction-Tool/blob/main/AP.png?raw=true" width="200" alt="支付宝二维码">
 
-## 开源协议
+#### PayPal
+[点击这里通过PayPal支持](https://paypal.me/muscccm?country.x=C2&locale.x=zh_XC)
 
-MIT License
+</div>
 
+您的支持是我继续创作的动力！💪
+
+## 📝 许可证
+
+本项目采用 MIT 许可证 - 查看 [LICENSE](LICENSE) 文件了解详情。
+
+## 🤝 贡献
+
+欢迎提交问题和功能请求！如果您想贡献代码，请先创建一个 issue 讨论您想要添加的功能。
+
+## 📧 联系方式
+
+如有问题或建议，请通过以下方式联系：
+- 创建 GitHub Issue
+- 邮箱：muscccm0903@hotmail.com
 ---
 
 <p align="center">
