@@ -11,11 +11,10 @@
 </p>
 
 <p align="center">
-  <a href="#功能特性">功能特性</a> •
-  <a href="#快速开始">快速开始</a> •
-  <a href="#使用场景">使用场景</a> •
-  <a href="#技术架构">技术架构</a> •
-  <a href="#下载">下载</a>
+
+  <a href="https://get.microsoft.com/installer/download/9p111f1qkt0k?referrer=appbadge" target="_self" >
+	<img src="https://get.microsoft.com/images/en-us%20dark.svg" width="200"/>
+</a>
 </p>
 
 ---
